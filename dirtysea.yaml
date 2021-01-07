@@ -2,7 +2,7 @@ scheme: "dirtysea"
 author: "Kahlil (Kal) Hodgson"
 
 base00: "e0e0e0" # (light grey) Default Background
-base01: "eeeeee" # (lighter grey) Lighter Background (Used for status bars)
+base01: "d0dad0" # (light green) Lighter Background (Used for status bars)
 base02: "d0d0d0" # (darker grey) Selection Background 
 base03: "707070" # (dark grey) Comments, Invisibles, Line Highlighting
 base04: "202020" # Dark Foreground (Used for status bars)
